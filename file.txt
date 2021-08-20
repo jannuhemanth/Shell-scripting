@@ -1,0 +1,2 @@
+iam a text file
+you can read write into me.
